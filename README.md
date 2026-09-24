@@ -1,13 +1,17 @@
 <div align="center">
 
-  # Привет, я Никанор Стариков 👋
+**🌐 Язык:** Русский · [English](README_EN.md) · [中文](README_ZH.md)
 
-  **CEO экосистемы СТАРГРАДД**
+<br>
 
-  Мы создаем продукты и сервисы, которые упрощают жизнь пользователям.
+# Привет, я Никанор Стариков 👋
 
-  [![Сайт](https://img.shields.io/badge/Сайт-stargrd.ru-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stargrd.ru)
-  [![Форум](https://img.shields.io/badge/Форум-СТАРГРАДД-ff0055?style=for-the-badge&logo=discourse&logoColor=white)](https://stargrd.ru/forum)
+**CEO экосистемы СТАРГРАДД**
+
+Мы создаём продукты и сервисы, которые упрощают жизнь пользователям.
+
+[![Сайт](https://img.shields.io/badge/Сайт-stargrd.ru-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stargrd.ru)
+[![Форум](https://img.shields.io/badge/Форум-СТАРГРАДД-ff0055?style=for-the-badge&logo=discourse&logoColor=white)](https://stargrd.ru/forum)
 
 </div>
 
@@ -44,9 +48,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nvstarikov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020308&title_color=00e5ff&icon_color=00e5ff&text_color=c0c8d8)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvstarikov&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvstarikov&layout=compact&theme=tokyonight&hide_border=true&bg_color=020308&title_color=00e5ff&text_color=c0c8d8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvstarikov&layout=compact&theme=tokyonight&hide_border=true&bg_color=020308&title_color=00e5ff&text_color=c0c8d8&langs_count=8)
 
 </div>
 
