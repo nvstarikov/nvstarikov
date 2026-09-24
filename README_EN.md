@@ -6,7 +6,7 @@
 
 # Hi, I'm Nikanor Starikov 👋
 
-**CEO of the STARGRAD ecosystem**
+**CEO of the STARGRADD ecosystem**
 
 We build products and services that make people's lives easier.
 
@@ -21,7 +21,7 @@ We build products and services that make people's lives easier.
 
 ### Kalinka.Launcher
 
-The single entry point to the STARGRAD digital ecosystem — download, install,
+The single entry point to the STARGRADD digital ecosystem — download, install,
 launch and update all products from a single window.
 
 [![Tauri](https://img.shields.io/badge/Tauri-2-24C8D8?style=flat-square&logo=tauri&logoColor=white)](https://github.com/nvstarikov/kalinka-launcher)
