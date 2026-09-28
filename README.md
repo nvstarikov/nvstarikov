@@ -11,6 +11,7 @@
 Мы создаём продукты и сервисы, которые упрощают жизнь пользователям.
 
 [![Сайт](https://img.shields.io/badge/Сайт-stargrd.ru-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stargrd.ru)
+<br>
 [![Форум](https://img.shields.io/badge/Форум-СТАРГРАДД-ff0055?style=for-the-badge&logo=discourse&logoColor=white)](https://stargrd.ru/forum)
 
 </div>
