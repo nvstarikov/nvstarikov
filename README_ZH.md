@@ -50,7 +50,7 @@ STARGRAD 数字生态系统的统一入口 —— 在一个窗口中下载、安
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvstarikov&theme=github_dark)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nvstarikov&layout=compact&theme=tokyonight&hide_border=true&bg_color=020308&title_color=00e5ff&text_color=c0c8d8&langs_count=8&custom_title=Most%20Used%20Languages)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nvstarikov&layout=compact&theme=tokyonight&hide_border=true&bg_color=020308&title_color=00e5ff&text_color=c0c8d8&langs_count=8&custom_title=%E6%9C%80%E5%B8%B8%E7%94%A8%E7%9A%84%E8%AF%AD%E8%A8%80)
 
 ![关注者](https://img.shields.io/github/followers/nvstarikov?style=for-the-badge&label=关注者&color=00e5ff)
 ![卡琳卡启动器](https://img.shields.io/github/stars/nvstarikov/kalinka-launcher?style=for-the-badge&label=卡琳卡启动器&color=ff0055)
