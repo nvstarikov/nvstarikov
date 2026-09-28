@@ -52,6 +52,10 @@ STARGRAD 数字生态系统的统一入口 —— 在一个窗口中下载、安
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvstarikov&layout=compact&theme=tokyonight&hide_border=true&bg_color=020308&title_color=00e5ff&text_color=c0c8d8&langs_count=8)
 
+![关注者](https://img.shields.io/github/followers/nvstarikov?style=for-the-badge&label=关注者&color=00e5ff)
+![卡琳卡启动器](https://img.shields.io/github/stars/nvstarikov/kalinka-launcher?style=for-the-badge&label=卡琳卡启动器&color=ff0055)
+![NetSpeed](https://img.shields.io/github/stars/nvstarikov/netspeed?style=for-the-badge&label=NetSpeed&color=b6ff00)
+
 </div>
 
 ---
