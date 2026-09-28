@@ -6,7 +6,7 @@
 
 # Hi, I'm Nikanor Starikov 👋
 
-**CEO of the STARGRADD ecosystem**
+**CEO of the STARGRADD Russian company**
 
 We build products and services that make people's lives easier.
 
