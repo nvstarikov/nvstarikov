@@ -49,7 +49,6 @@
 <div align="center">
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvstarikov&theme=github_dark)
-
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nvstarikov&layout=compact&theme=tokyonight&hide_border=true&bg_color=020308&title_color=00e5ff&text_color=c0c8d8&langs_count=8&custom_title=Мои%20языки)
 
 
