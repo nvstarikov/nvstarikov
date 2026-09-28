@@ -52,6 +52,12 @@ launch and update all products from a single window.
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nvstarikov&layout=compact&theme=tokyonight&hide_border=true&bg_color=020308&title_color=00e5ff&text_color=c0c8d8&langs_count=8&custom_title=Most%20Used%20Languages)
 
+![Followers](https://img.shields.io/github/followers/nvstarikov?style=for-the-badge&label=Подписчики&color=00e5ff)
+![Stars](https://img.shields.io/github/stars/nvstarikov/kalinka-launcher?style=for-the-badge&label=Калинка.Лаунчер&color=ff0055)
+![Stars](https://img.shields.io/github/stars/nvstarikov/netspeed?style=for-the-badge&label=NetSpeed&color=b6ff00)
+
+</div>
+
 </div>
 
 ---
